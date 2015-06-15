@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/skywite/SWReachability"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "saman kumara" => "saman.usa@gmail.com" }
+  s.author           = { "saman kumara" => "me@isamankumara.com" }
   s.source           = { :git => "https://github.com/skywite/SWReachability.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
