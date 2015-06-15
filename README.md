@@ -1,10 +1,32 @@
 # SWReachability
 
+[![CI Status](http://img.shields.io/travis/saman kumara/SWReachability.svg?style=flat)](https://travis-ci.org/saman kumara/SWReachability)
+[![Version](https://img.shields.io/cocoapods/v/SWReachability.svg?style=flat)](http://cocoapods.org/pods/SWReachability)
+[![License](https://img.shields.io/cocoapods/l/SWReachability.svg?style=flat)](http://cocoapods.org/pods/SWReachability)
+[![Platform](https://img.shields.io/cocoapods/p/SWReachability.svg?style=flat)](http://cocoapods.org/pods/SWReachability)
+
+
 Reachability with blocks. One line code implementation. When change network status it will go to block.
+
+# Usage
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+# Requirements
 
 You need to add "SystemConfiguration" frameworks into your project before implement this.
 
-Few connection status are avaialbe. 
+
+# Installation
+
+SWReachability is available through [CocoaPods](http://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod "SWReachability"
+```
+
+Few connection status are avaialable. 
 
 
 ```objective-c
