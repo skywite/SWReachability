@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.license          = 'MIT'
   s.author           = { "saman kumara" => "me@isamankumara.com" }
   s.source           = { :git => "https://github.com/skywite/SWReachability.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  # s.social_media_url = 'https://www.facebook.com/skywite.frameworks'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
