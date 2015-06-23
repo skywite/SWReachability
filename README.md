@@ -7,7 +7,7 @@
 
 
 
-[![CI Status](https://travis-ci.org/skywite/SWReachability.svg?branch=master](https://travis-ci.org/skywite/SWReachability)
+[![Build Status](https://travis-ci.org/skywite/SWReachability.svg?branch=master)](https://travis-ci.org/skywite/SWReachability)
 [![Version](https://img.shields.io/cocoapods/v/SWReachability.svg?style=flat)](http://cocoapods.org/pods/SWReachability)
 [![License](https://img.shields.io/cocoapods/l/SWReachability.svg?style=flat)](http://cocoapods.org/pods/SWReachability)
 [![Platform](https://img.shields.io/cocoapods/p/SWReachability.svg?style=flat)](http://cocoapods.org/pods/SWReachability)
