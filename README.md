@@ -1,6 +1,13 @@
 # SWReachability
 
-[![CI Status](http://img.shields.io/travis/saman kumara/SWReachability.svg?style=flat)](https://travis-ci.org/saman kumara/SWReachability)
+
+<p align="center" >
+  <img src="http://skywite.com/wp-content/uploads/2015/05/skywite.png" alt="AFNetworking" title=“SkyWite”>
+</p>
+
+
+
+[![CI Status](https://travis-ci.org/skywite/SWReachability.svg?branch=master](https://travis-ci.org/skywite/SWReachability)
 [![Version](https://img.shields.io/cocoapods/v/SWReachability.svg?style=flat)](http://cocoapods.org/pods/SWReachability)
 [![License](https://img.shields.io/cocoapods/l/SWReachability.svg?style=flat)](http://cocoapods.org/pods/SWReachability)
 [![Platform](https://img.shields.io/cocoapods/p/SWReachability.svg?style=flat)](http://cocoapods.org/pods/SWReachability)
